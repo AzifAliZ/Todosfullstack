@@ -112,9 +112,9 @@ Deploy to Render / Vercel
 
 
 ## 👨‍💻 Author
-Your Name
+Azif Ali Z
 🌐 GitHub
-✉️ your.email@example.com
+✉️ azifalizakir@gmail.com
 
 ## ⭐ If you like this project, don’t forget to star the repo!
 
